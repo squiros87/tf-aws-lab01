@@ -1,0 +1,24 @@
+The instace is started up with an ip address of 34.237.1.239
+The instace is started up with an ip address of 34.231.247.154
+the instance with an ip 34.236.187.212 was destroyed
+The instace is started up with an ip address of 34.236.157.13
+the instance with an ip 34.236.157.13 was destroyed
+The instace is started up with an ip address of 54.161.38.215
+the instance with an ip 54.161.38.215 was destroyed
+The instace is started up with an ip address of 54.159.54.142
+the instance with an ip 54.159.54.142 was destroyed
+The instace is started up with an ip address of 18.208.192.11
+the instance with an ip 18.208.192.11 was destroyed
+The instace is started up with an ip address of 54.196.202.188
+the instance with an ip 54.196.202.188 was destroyed
+The instace is started up with an ip address of 44.223.52.224
+the instance with an ip 44.223.52.224 was destroyed
+The instace is started up with an ip address of 18.206.174.253
+the instance with an ip 18.206.174.253 was destroyed
+The instace is started up with an ip address of 54.234.229.240
+the instance with an ip 54.234.229.240 was destroyed
+The instace is started up with an ip address of 3.210.204.101
+the instance with an ip 3.210.204.101 was destroyed
+the instance with an ip 3.235.47.40 was destroyed
+The instace is started up with an ip address of 54.226.239.77
+the instance with an ip 54.226.239.77 was destroyed
