@@ -20,7 +20,7 @@ ec2_spec = {
   "instance_type" = "t2.micro"
 }
 
-instancias = ["mysql", "jumpserver", "apache"]
+instancias = ["mysql", "jumpserver", "apache","nginx"]
 monitoreo  = true
 
 ports_sg = [22, 80, 443]
