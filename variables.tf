@@ -47,3 +47,9 @@ variable "monitoreo" {
 variable "ports_sg" {
   type = list(number)  
 }
+
+variable "secret_key" {
+}
+
+variable "access_key" {
+}
